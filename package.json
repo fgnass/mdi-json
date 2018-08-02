@@ -1,0 +1,21 @@
+{
+  "name": "mdi-json",
+  "version": "1.0.0",
+  "description": "Material Design Icons as JSON",
+  "author": "Felix Gnass <fgnass@gmail.com>",
+  "license": "MIT",
+  "main": "icons.json",
+  "scripts": {
+    "build": "node build"
+  },
+  "keywords": [
+    "material",
+    "design",
+    "icons",
+    "mdi"
+  ],
+  "devDependencies": {
+    "@mdi/svg": "^2.5.94",
+    "@mdi/util": "^0.1.1"
+  }
+}
